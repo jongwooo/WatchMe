@@ -1,7 +1,7 @@
 WatchMe
 =======
 
-![Version](https://img.shields.io/badge/Version-1.0.0-green.svg)
+![Version](https://img.shields.io/badge/Version-1.0.0-green.svg) ![License](https://img.shields.io/badge/License-MIT-informational.svg)
 
 ### 1. INFO
 
